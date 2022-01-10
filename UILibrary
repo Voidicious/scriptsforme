@@ -261,7 +261,7 @@ local Properties = {
 	},
 	ScrollingFrame = {
 		BackgroundTransparency = 1,
-		ScrollBarThickness = 1,
+		ScrollBarThickness = 3,
 		CanvasSize = UDim2.fromScale(0,0),
 		Size = UDim2.fromScale(1,1)
 	},
